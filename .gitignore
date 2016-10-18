@@ -1,0 +1,22 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+build
+node_modules
+ncp-debug.log
+npm-debug.log
+.DS_Store
+.idea/
+/.babelrc
+/.csscomb.json
+/.csslintrc
+/.editorconfig
+/.eslintrc
+/.flowconfig
+/.gitattributes
+/.jscsrc
+/.travis.yml
+/LICENSE.txt
+/CHANGELOG.md
+/docs/
+src/public/
